@@ -1,4 +1,7 @@
-General instructions
+
+Please visit https://nipunbatra.github.io/ml2023/exams/assignment-5.html for details.
+
+# General instructions
 Feel free to use any framework of your choice: PyTorch, JAX (+Flax/Equinox), Tensorflow (+Keras)
 
 We are not providing any code template. However, it is recommended you adhere to high code quality standards.
